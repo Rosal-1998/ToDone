@@ -1,0 +1,11 @@
+<van-row>
+	<van-col custom-class="form" span="20" offset="2">
+		<van-cell-group inset>
+			<van-field label="昵称" left-icon="contact" value="{{ name }}" placeholder="请输入新的用户名" border="{{ false }}" bind:change="nameOnChange" />
+			<van-field label="个性签名" left-icon="edit" value="{{ motto }}" placeholder="请输入新的个性签名" border="{{ false }}" bind:change="mottoOnChange" />
+		</van-cell-group>
+	</van-col>
+	<van-col custom-class="btn" span="10" offset="7">
+		<van-button color="#afafaf" size="normal" bind:click="changeInfo">提交</van-button>
+	</van-col>
+</van-row>

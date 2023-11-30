@@ -1,0 +1,67 @@
+{
+   "pages": [
+      "pages/TodoList/TodoList",
+      "pages/My/My",
+      "pages/Statistic/Statistic",
+      "pages/Post/Post",
+      "pages/ChangeInfo/ChangeInfo",
+      "pages/EditTask/EditTask",
+      "pages/EditLable/EditLable"
+   ],
+   "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#f2f2f2",
+      "navigationBarTextStyle": "white"
+   },
+   "tabBar": {
+      "selectedColor": "#0a0a0b",
+      "color": "#acacac",
+      "backgroundColor": "#f2f2f2",
+      "borderStyle": "white",
+      "list": [
+         {
+            "pagePath": "pages/TodoList/TodoList",
+            "text": "待办"
+         },
+         {
+            "pagePath": "pages/Statistic/Statistic",
+            "text": "统计"
+         },
+         {
+            "pagePath": "pages/Post/Post",
+            "text": "讨论"
+         },
+         {
+            "pagePath": "pages/My/My",
+            "text": "我的"
+         }
+      ]
+   },
+   "sitemapLocation": "sitemap.json",
+   "lazyCodeLoading": "requiredComponents",
+   "usingComponents": {
+      "van-tabbar": "@vant/weapp/tabbar/index",
+      "van-tabbar-item": "@vant/weapp/tabbar-item/index",
+      "van-row": "@vant/weapp/row/index",
+      "van-col": "@vant/weapp/col/index",
+      "van-button": "@vant/weapp/button/index",
+      "van-popup": "@vant/weapp/popup/index",
+      "van-checkbox": "@vant/weapp/checkbox/index",
+      "van-checkbox-group": "@vant/weapp/checkbox-group/index",
+      "van-field": "@vant/weapp/field/index",
+      "van-overlay": "@vant/weapp/overlay/index",
+      "van-icon": "@vant/weapp/icon/index",
+      "van-swipe-cell": "@vant/weapp/swipe-cell/index",
+      "van-dialog": "@vant/weapp/dialog/index",
+      "van-image": "@vant/weapp/image/index",
+      "van-grid": "@vant/weapp/grid/index",
+      "van-grid-item": "@vant/weapp/grid-item/index",
+      "van-cell": "@vant/weapp/cell/index",
+      "van-cell-group": "@vant/weapp/cell-group/index",
+      "van-notify": "@vant/weapp/notify/index",
+      "van-calendar": "@vant/weapp/calendar/index",
+      "van-picker": "@vant/weapp/picker/index",
+      "van-toast": "@vant/weapp/toast/index",
+      "van-tag": "@vant/weapp/tag/index"
+   }
+}

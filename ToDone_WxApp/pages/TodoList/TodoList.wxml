@@ -1,0 +1,29 @@
+<van-row custom-class="header">
+   <van-col offset="2" span="6">GetThingsDone</van-col>
+   <van-col offset="8" span="8">
+      <text class="time">{{ time.m }}月{{time.d}}日 星期{{time.w}}</text>
+   </van-col>
+   <van-col offset="3" span="18">
+      <van-cell-group>
+         <van-field adjust-position="{{false}}" cursor-spacing="100" focus="{{ keyBoardState }}" custom-style="border-radius:10rpx;margin-top:30rpx" value="{{ value }}" placeholder="请输入待办事项" border="{{ false }}" bind:confirm="addTask" />
+      </van-cell-group>
+   </van-col>
+</van-row>
+<van-row custom-class="taskRow">
+   <van-col custom-class="task" offset="3" span="21" wx:for="{{task}}" wx:if="{{!item.state}}" wx:key="index" id="{{item.taskid}}" bindtouchstart='touchStart' bindtouchmove='touchMove' bindtouchend='touchEnd'>
+      <van-swipe-cell right-width="{{ 75 }}" bind:open='swipeOpen'>
+         <van-cell-group border="{{false}}">{{item.content}}</van-cell-group>
+         <view slot="right">
+            <text class="operation" bindtap='editTask'>编辑</text>
+            <text id="{{item.taskid}}" class="operation" bindtap='deleteTask'>删除</text>
+         </view>
+      </van-swipe-cell>
+   </van-col>
+</van-row>
+<van-row custom-class="taskRow">
+   <van-col custom-class="task taskDone " offset="3" span="21" wx:for="{{task}}" wx:if="{{item.state}}" wx:key="index" id="{{item.taskid}}" bindtouchstart='touchStart' bindtouchmove='touchMove' bindtouchend='touchEnd'>
+      {{item.content}}
+   </van-col>
+</van-row>
+<van-dialog id="van-dialog" />
+<van-notify id="van-notify" />

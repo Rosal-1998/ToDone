@@ -1,0 +1,30 @@
+<van-row custom-class="my">
+    <van-col span="8" offset="2">
+        <van-image round width="5rem" height="5rem" src="{{userInfo.avatarUrl}}" />
+    </van-col>
+    <van-col span="14" offset="0" custom-class="nameBox">
+        <!-- <text class="name"> -->
+        {{userInfo.name}}
+        <!-- </text> -->
+        <text class="name">\n十年饮冰，难凉热血</text>
+    </van-col>
+</van-row>
+<van-row custom-class="more">
+    <van-col span="20" offset="2">
+        <van-grid column-num="3">
+            <van-grid-item icon="passed" text="122" />
+            <van-grid-item icon="comment-circle-o" text="88" />
+            <van-grid-item icon="thumb-circle-o" text="123" />
+        </van-grid>
+    </van-col>
+</van-row>
+<van-row custom-class="set">
+    <van-col span="20" offset="2">
+        <van-cell-group inset>
+            <van-cell icon="user-circle-o" bind:click="IntoChangeInfoPage" title-class="setting" title="更改个人信息" is-link />
+            <van-cell icon="label-o" bind:click="IntoEditLablePage" title-class="setting" title="编辑任务标签" is-link />
+            
+            <van-cell icon="question-o" title-class="setting" title="帮助与客服" is-link />
+        </van-cell-group>
+    </van-col>
+</van-row>

@@ -1,0 +1,19 @@
+<van-row>
+	<van-col custom-class="form" span="20" offset="2">
+		<van-cell-group inset>
+			<van-field left-icon="label-o" title-width="3em" value="{{ newLabel }}" bind:change="labelOnChange" label="标签" placeholder="请输入新标签" border="{{ false }}" use-button-slot>
+				<van-icon name="add-o" slot="button" bind:click="addLabel" />
+			</van-field>
+		</van-cell-group>
+	</van-col>
+	<van-col custom-class="labels" span="16" offset="4">
+		<van-tag  custom-class="label"
+		wx:for="{{label}}" 
+		wx:key="index" 
+		wx:if="{{ show.primary }}" 
+		closeable size="medium" type="primary" id="primary" id="{{item.labelid}}" bind:close="onClose">
+			{{item.labelcontent}}
+		</van-tag>
+	</van-col>
+</van-row>
+<van-notify id="van-notify" />

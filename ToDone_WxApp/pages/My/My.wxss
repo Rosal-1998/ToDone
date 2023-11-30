@@ -1,0 +1,31 @@
+/* pages/My/My.wxss */
+page{
+	/* background-color: #f1f1f1; */
+	background-color: #f7f8fa;
+}
+.my{
+	background-color:#f2f2f2;
+	padding-bottom: 80px;
+}
+.name{
+	/* font-family: '黑体'; */
+	font-size: 30rpx;
+	/* line-height: 50rpx; */
+}
+.nameBox{
+	padding-top: 1rpx;
+	font-family: '黑体';
+	font-size: 50rpx;
+}
+.more{
+	margin-top: -50px;
+}
+
+.set{
+	/*  */
+	margin-top: 30px;
+}
+
+.setting{
+	font-size: 35rpx;
+}

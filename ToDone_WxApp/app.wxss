@@ -1,0 +1,18 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+}
+page {
+  font-family: myFont;
+}
+
+/* @font-face {
+  font-family: 'myFont';
+  src: url('https://746f-todone-8g8lgvrm028dec1c-1313310967.tcb.qcloud.la/FZSKBXKJT.TTF?sign=3cbc4c718ee623d96b1d4191ac14aaf2&t=1660890142');
+} */
