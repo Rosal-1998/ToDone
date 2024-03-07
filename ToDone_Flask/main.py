@@ -7,6 +7,7 @@ import json
 import mysql.connector
 conn = mysql.connector.connect(user='root', password='x5', database='to_done')
 cursor = conn.cursor()
+
 # 创建应用实例
 app = Flask(__name__)
 # 视图函数（路由）
