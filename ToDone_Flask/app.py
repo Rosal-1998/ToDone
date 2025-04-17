@@ -5,8 +5,9 @@ import json
 
 # 链接数据库
 import mysql.connector
-conn = mysql.connector.connect(user='root', password='x5', database='to_done')
+conn = mysql.connector.connect(user='root', password='x5', database='ToDone')
 cursor = conn.cursor()
+print('-?')
 # 创建应用实例
 app = Flask(__name__)
 # 视图函数（路由）
@@ -123,8 +124,8 @@ def Label(opreation):
     return res
 
 
-# # 启动服务
-# if __name__ == '__main__':
-#     print('-?')
-#     app.run(host='0.0.0.0', port='5000', debug=True)
-# # app.run(host, port, debug, options)
+# 启动服务
+if __name__ == '__main__':
+    print('-?')
+    app.run(host='0.0.0.0', port='5000', debug=True)
+# app.run(host, port, debug, options)
