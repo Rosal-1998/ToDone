@@ -1,0 +1,139 @@
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,53
+ColsVisible_connform.ListSessions<|||>1<|||>0
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+CoolBand0Index<|||>3<|||>0
+CoolBand0Break<|||>3<|||>1
+CoolBand0Width<|||>3<|||>1530
+CoolBand1Index<|||>3<|||>1
+CoolBand1Break<|||>3<|||>1
+CoolBand1Width<|||>3<|||>1530
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,275
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,275,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,145
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,215
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>125,69,70,140,68,70,86,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>X5
+LastActiveSession<|||>1<|||>X5
+ColWidths_UserManagerForm.listUsers<|||>1<|||>96,80
+ColsVisible_UserManagerForm.listUsers<|||>1<|||>0,1
+ColPositions_UserManagerForm.listUsers<|||>1<|||>0,1
+ColSort_UserManagerForm.listUsers<|||>1<|||>0,0
+MainWinMaximized<|||>3<|||>1
+ColWidths_frmTableEditor.listColumns<|||>1<|||>44,152,102,90,60,84,50,128,130,149,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>305,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>114,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+dbtreewidth<|||>3<|||>246
+sqloutheight<|||>3<|||>109
+MainWinLeft<|||>3<|||>258
+MainWinTop<|||>3<|||>74
+MainWinWidth<|||>3<|||>840
+MainWinHeight<|||>3<|||>524
+ExportSQL_CreateDatabases<|||>3<|||>1
+ExportSQL_CreateTables<|||>3<|||>1
+ExportSQL_DataHow<|||>3<|||>2
+ExportSQL_Filenames<|||>1<|||>F:\Onworking\todonesql.sql<{{{><}}}>F:\网页设计 2020.10\333.sql<{{{><}}}>F:\网页设计 2020.10\222.sql<{{{><}}}>F:\网页设计 2020.10\111.sql<{{{><}}}>C:\Users\01\Desktop\bookshop最新版.sql<{{{><}}}>C:\Users\01\Desktop\bookshop最新.sql<{{{><}}}>C:\Users\01\Desktop\bookshop-new.sql<{{{><}}}>
+querymemoheight<|||>3<|||>207
+TableEditorTabsHeight<|||>3<|||>131
+queryhelperswidth<|||>3<|||>145
+DateTimeEditor_CursorPos_Type4<|||>3<|||>1
+MemoEditorWidth<|||>3<|||>136
+SQLFile0<|||>1<|||>F:\Onworking\todonesql.sql
+SQLFile1<|||>1<|||>D:\BaiduNetdiskDownload\bookshop\bookshop数据库.sql
+Servers\X5\SessionCreated<|||>1<|||>2015-10-08 17:14:23
+Servers\X5\Host<|||>1<|||>127.0.0.1
+Servers\X5\WindowsAuth<|||>3<|||>0
+Servers\X5\User<|||>1<|||>root
+Servers\X5\Password<|||>1<|||>7D3A5
+Servers\X5\LoginPrompt<|||>3<|||>0
+Servers\X5\Port<|||>1<|||>3306
+Servers\X5\NetType<|||>3<|||>0
+Servers\X5\Compressed<|||>3<|||>0
+Servers\X5\LocalTimeZone<|||>3<|||>0
+Servers\X5\QueryTimeout<|||>3<|||>0
+Servers\X5\FullTableStatus<|||>3<|||>1
+Servers\X5\Databases<|||>1<|||>
+Servers\X5\Comment<|||>1<|||>
+Servers\X5\StartupScriptFilename<|||>1<|||>
+Servers\X5\SSHtunnelHost<|||>1<|||>
+Servers\X5\SSHtunnelHostPort<|||>3<|||>0
+Servers\X5\SSHtunnelUser<|||>1<|||>
+Servers\X5\SSHtunnelPassword<|||>1<|||>3
+Servers\X5\SSHtunnelTimeout<|||>3<|||>4
+Servers\X5\SSHtunnelPrivateKey<|||>1<|||>
+Servers\X5\SSHtunnelPort<|||>3<|||>3307
+Servers\X5\SSL_Active<|||>3<|||>0
+Servers\X5\SSL_Key<|||>1<|||>
+Servers\X5\SSL_Cert<|||>1<|||>
+Servers\X5\SSL_CA<|||>1<|||>
+Servers\X5\SSL_Cipher<|||>1<|||>
+Servers\X5\ServerVersionFull<|||>1<|||>5.6.26 - MySQL Community Server (GPL)
+Servers\X5\ConnectCount<|||>3<|||>78
+Servers\X5\ServerVersion<|||>3<|||>50626
+Servers\X5\LastConnect<|||>1<|||>2025-04-17 18:18:27
+Servers\X5\lastUsedDB<|||>1<|||>to_done
+Servers\X5\RefusedCount<|||>3<|||>3
+Servers\X5\bluewhale|records\Sort<|||>1<|||>1_RecordstudentName|
+Servers\X5\bluewhale|students\Sort<|||>1<|||>0_studentCollegeId|0_studentPassword|0_studentSign|
+Servers\X5\my_data_base|comment\Sort<|||>1<|||>1_comment_id|
+Servers\X5\my_data_base|teacher\Sort<|||>1<|||>1_user_createdate|
+Servers\X5\QueryHistory\2<|||>1<|||>2022-12-11 19:10:33||0|CREATE DATABASE student
+Servers\X5\QueryHistory\1<|||>1<|||>2022-12-11 19:10:37||16|CREATE DATABASE db_shop
+Servers\X5\QueryHistory\3<|||>1<|||>2022-12-11 19:11:12||0|CREATE DATABASE STUDENT
+Servers\X5\QueryHistory\4<|||>1<|||>2022-12-11 19:11:16||0|CREATE DATABASE DB_SHOP
+Servers\X5\QueryHistory\5<|||>1<|||>2022-12-11 19:14:21||16|show databases
+Servers\X5\QueryHistory\6<|||>1<|||>2022-12-11 19:16:13|db_shop|0|use db_shop
+Servers\X5\QueryHistory\7<|||>1<|||>2022-12-11 19:16:37|db_shop|0|drop DATABASE student
+Servers\X5\QueryHistory\8<|||>1<|||>2022-12-11 19:24:54|db_shop|547|CREATE TABLE goods<{{{><}}}>(<{{{><}}}>number CHAR (4)PRIMARY KEY,<{{{><}}}>class char(10) not null,<{{{><}}}>name char(10),<{{{><}}}>price INT(10),<{{{><}}}>stock INT(10),<{{{><}}}>times TIME(4)<{{{><}}}>);
+Servers\X5\QueryHistory\10<|||>1<|||>2022-12-11 19:31:13|db_shop|828|ALTER TABLE goods MODIFY name char(100)
+Servers\X5\QueryHistory\12<|||>1<|||>2022-12-11 19:32:45|db_shop|1047|ALTER TABLE goods ADD discount int(4)
+Servers\X5\QueryHistory\11<|||>1<|||>2022-12-11 19:34:31|db_shop|500|CREATE TABLE vip (name char(10),age int(10))
+Servers\X5\QueryHistory\14<|||>1<|||>2022-12-11 19:35:36|db_shop|235|DROP TABLE vip
+Servers\X5\QueryHistory\15<|||>1<|||>2022-12-11 19:44:04|db_shop|47|DESC goods
+Servers\X5\QueryHistory\9<|||>1<|||>2022-12-11 19:53:38|db_shop|406|DELETE FROM goods WHERE price < 10
+Servers\X5\QueryHistory\17<|||>1<|||>2022-12-11 19:55:47|db_shop|0|select * from goods order by price desc;
+Servers\X5\QueryHistory\18<|||>1<|||>2022-12-11 19:56:29|db_shop|0|select * from goods where price < 15 OR price > 45;
+Servers\X5\QueryHistory\19<|||>1<|||>2022-12-11 19:56:38|db_shop|0|select * from goods where price < 15 OR price > 95;
+Servers\X5\QueryHistory\20<|||>1<|||>2022-12-11 19:57:18|db_shop|0|SELECT distinct price FROM goods
+Servers\X5\QueryHistory\21<|||>1<|||>2022-12-11 19:59:30|db_shop|0|SELECT * FROM goods WHERE stock BETWEEN 100 AND 300;
+Servers\X5\QueryHistory\22<|||>1<|||>2022-12-11 20:00:14|db_shop|0|SELECT * FROM goods WHERE price LIKE '%1%'
+Servers\X5\QueryHistory\23<|||>1<|||>2022-12-11 20:19:36|db_shop|0|<{{{><}}}>SELECT * FROM goods ORDER BY stock desc;
+Servers\X5\QueryHistory\24<|||>1<|||>2022-12-11 20:20:49|db_shop|94|SELECT SUM(price) AS pricesum FROM goods WHERE stock < 100
+Servers\X5\QueryHistory\25<|||>1<|||>2022-12-11 20:25:07|db_shop|1766|CREATE VIEW book AS<{{{><}}}>SELECT *<{{{><}}}>FROM goods where name = '书本'
+Servers\X5\QueryHistory\26<|||>1<|||>2022-12-11 20:25:43|db_shop|0|select * from book
+Servers\X5\QueryHistory\27<|||>1<|||>2022-12-11 20:26:42|db_shop|156|CREATE VIEW food AS<{{{><}}}>SELECT *<{{{><}}}>FROM goods where name = '零食'
+Servers\X5\QueryHistory\29<|||>1<|||>2022-12-11 20:27:57|db_shop|1813|UPDATE  food SET price = 80  WHERE price > 80
+Servers\X5\QueryHistory\30<|||>1<|||>2022-12-11 20:27:58|db_shop|0|select * from food
+Servers\X5\QueryHistory\28<|||>1<|||>2022-12-11 20:39:19|db_shop|47|update goods set class = 2  where class = 1 and name = '玩具'
+Servers\X5\QueryHistory\31<|||>1<|||>2022-12-11 20:40:30|db_shop|47|<{{{><}}}>DESC goods
+Servers\X5\QueryHistory\13<|||>1<|||>2022-12-11 20:40:38|db_shop|0|select * from goods
+Servers\X5\todone|user\Sort<|||>1<|||>1_wxID|
